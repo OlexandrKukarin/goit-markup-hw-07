@@ -1133,11 +1133,12 @@ padding-right: 24px;
   position: absolute;
 top:24px;
 right:24px;
+padding: 8px;
 
 
   display:flex;
-width: 24px;
-height: 24px;
+/* width: 24px;
+height: 24px; */
 align-items: center;
 justify-content: center;
 
